@@ -1,10 +1,11 @@
-### Hi there, I'm Leslie  - aka [layan2k][website] 👋
+### Hi there, I'm Leslie ! 👋
 
 
 
-## I'm a Developer!!
+## I’m currently studying Software Engineering with ALX/Holberton School
 
-- 🌱 I’m currently studying Software Engineering with ALX/Holberton School
+- ⚒ I'm currently working on creating a [Simple Shell Project][shell] using C
+- 🌱 I'm currently learning on  [React][react]
 - 🥅 2021 Goals: Learn and evolve my skills in Development
 - ⚡ Fun fact: I love to swimming and listening to music
 
@@ -47,4 +48,6 @@
 [twitter]: https://twitter.com/layan_2k
 [instagram]: https://instagram.com/layan2k2
 [linkedin]: https://www.linkedin.com/in/leslieshumba/
+[shell]: https://github.com/layan2k/simple_shell
+[react]: https://reactjs.org/
 

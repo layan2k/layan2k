@@ -4,7 +4,7 @@
 
 ## I’m currently studying Software Engineering with ALX/Holberton School
 
-- ⚒ I'm currently working on creating a [Simple Shell Project][shell] using C
+- ⚒ I'm currently working on creating a React Blog
 - 🌱 I'm currently learning on  [React][react]
 - 🥅 2021 Goals: Learn and evolve my skills in Development
 - ⚡ Fun fact: I love to swimming and listening to music

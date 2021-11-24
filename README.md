@@ -39,6 +39,18 @@
 
 <br />
 <br />
+***
+
+<a href="https://github.com/layan2k">
+  <img src="https://github-readme-stats.vercel.app/api?username=layan2k&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/layan2k">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&layout=compact" />
+</a>
+
 
 
 

@@ -2,11 +2,11 @@
 
 
 
-## I’m currently studying Software Engineering with ALX/Holberton School
+## I’m currently studying Software Engineering with ALX
 
-- ⚒ I'm currently working on creating a Blog using the MERN stack.
-- 🌱 I'm currently learning [React][react]
-- 🥅 2021 Goals: Learn and evolve my skills in Development
+- ⚒ I'm currently working on Server side development Using NGINX 🧑🏿‍💻.
+- 🌱 I'm currently learning C++ with OOP.
+- 🥅 2022 Goals: Become at Backend Development and Devops
 - ⚡ Fun fact: I love to swimming and listening to music
 
 ### Connect with me:
@@ -62,4 +62,5 @@
 [linkedin]: https://www.linkedin.com/in/leslieshumba/
 [shell]: https://github.com/layan2k/simple_shell
 [react]: https://reactjs.org/
+
 

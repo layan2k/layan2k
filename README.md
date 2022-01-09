@@ -6,7 +6,7 @@
 
 - ⚒ I'm currently working on Server side development Using NGINX 🧑🏿‍💻.
 - 🌱 I'm currently learning C++ with OOP.
-- 🥅 2022 Goals: Become at Backend Development and Devops
+- 🥅 2022 Goals: Become an expert at Backend Development and Devops
 - ⚡ Fun fact: I love to swimming and listening to music
 
 ### Connect with me:

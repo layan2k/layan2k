@@ -1,20 +1,31 @@
-### Hi there, I'm Leslie ! 👋
+
+# Hi, I'm Leslie! 👋
 
 
+## 🚀 About Me
+I’m currently learning Software Engineering with ALX
 
-## I’m currently studying Software Engineering with ALX
 
-- ⚒ I'm currently working on Server side development Using NGINX 🧑🏿‍💻.
-- 🌱 I'm currently learning C++ with OOP.
-- 🥅 2022 Goals: Become an expert at Backend Development and Devops
-- ⚡ Fun fact: I love to swimming
+## So Whats Up ?
+👩‍💻 I'm currently working on a E-commerce WebApp
 
-### Connect with me:
+🧠 I'm currently learning Programming with Java
 
-[<img align="left" alt="layan2k.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="layan2k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="layan2k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="layan2k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+👯‍♀️ I'm looking to collaborate on Frontend and Fullstack Projects 
+
+💬 Ask me about Frontend DeveDevelopment 
+
+📫 How to reach me [Email](lesliedeeshumba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leslieshumba/) | [Twitter](https://twitter.com/layan_2k)
+
+⚡️ Fun fact I love Sim-Racing
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lesliethedeveloper.xyz/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslieshumba/https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/layan_2k)
+
+
 
 <br />
 

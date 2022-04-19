@@ -76,6 +76,6 @@ I’m currently learning Software Engineering with ALX
 [shell]: https://github.com/layan2k/simple_shell
 [react]: https://reactjs.org/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=layan2k)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=layan2k&theme=dark)](https://git.io/streak-stats)
 
 

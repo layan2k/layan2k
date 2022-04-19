@@ -1,6 +1,8 @@
 
 # Hi, I'm Leslie! 👋
 
+![](https://komarev.com/ghpvc/?username=layan2k&color=blue)
+
 
 ## 🚀 About Me
 I’m currently learning Software Engineering with ALX
@@ -52,12 +54,12 @@ I’m currently learning Software Engineering with ALX
 <br />
 <div style="display:flex; flex-direction: row;"> 
 <a style="width: 100%; height:50px;" href="https://github.com/layan2k">
-  <img src="https://github-readme-stats.vercel.app/api?username=layan2k&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=layan2k&theme=dark&show_icons=true&hide_border=true" />
 </a>
 
 
 <a tyle="width: 100%; height:50px;" href="https://github.com/layan2k">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&theme=dark&layout=compact" />
 </a>
   </div>
 
@@ -73,5 +75,7 @@ I’m currently learning Software Engineering with ALX
 [linkedin]: https://www.linkedin.com/in/leslieshumba/
 [shell]: https://github.com/layan2k/simple_shell
 [react]: https://reactjs.org/
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=layan2k)](https://git.io/streak-stats)
 
 

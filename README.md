@@ -15,7 +15,7 @@ I’m currently learning Software Engineering with ALX
 
 👯‍♀️ I'm looking to collaborate on Frontend and Fullstack Projects 
 
-💬 Ask me about Frontend DeveDevelopment 
+💬 Ask me about Frontend Development 
 
 📫 How to reach me [Email](lesliedeeshumba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leslieshumba/) | [Twitter](https://twitter.com/layan_2k)
 

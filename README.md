@@ -5,13 +5,14 @@
 
 
 ## 🚀 About Me
-I’m currently learning Software Engineering with ALX
+I’m doing Freelance. 
+https://www.fiverr.com/share/a9koWa
 
 
 ## So Whats Up ?
-👩‍💻 I'm currently working on a E-commerce WebApp
+👩‍💻 I'm currently working on a LMS using NEXT, Express, Mongo and AWS
 
-🧠 I'm currently learning Programming with Java
+🧠 I'm currently learning Data Science and ML with Datacamp
 
 👯‍♀️ I'm looking to collaborate on Frontend and Fullstack Projects 
 
@@ -19,11 +20,11 @@ I’m currently learning Software Engineering with ALX
 
 📫 How to reach me [Email](lesliedeeshumba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leslieshumba/) | [Twitter](https://twitter.com/layan_2k)
 
-⚡️ Fun fact I love Sim-Racing
+⚡️ Fun fact I love Sim-Racing and Planes
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lesliethedeveloper.xyz/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lesliedev.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslieshumba/https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/layan_2k)
 

@@ -5,14 +5,13 @@
 
 
 ## 🚀 About Me
-I’m doing Freelance. 
-https://www.fiverr.com/share/a9koWa
+https://www.lesliethedev.me/
 
 
 ## So Whats Up ?
 👩‍💻 I'm currently working on a LMS using NEXT, Express, Mongo and AWS
 
-🧠 I'm currently learning Data Science and ML with Datacamp
+🧠 I'm currently learning JAVA Core + Springboot
 
 👯‍♀️ I'm looking to collaborate on Frontend and Fullstack Projects 
 

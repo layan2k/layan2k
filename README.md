@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-https://www.lesliethedev.me/
+[LinkTree](https://linktr.ee/leslieshumba)
 
 
 ## So Whats Up ?

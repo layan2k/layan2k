@@ -14,20 +14,18 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer always keen on building impactful projects and expanding my knowledge.
+I'm an aspiring Data Engineer & Infrastructure Specialist focusing on building scalable data pipelines, enterprise data warehousing, and automated ETL workflows.
 
-* 🔭 I'm currently working on a **Learning Management System (LMS)**, leveraging **Next.js**, **Express.js**, **MongoDB**, and **AWS**.
-* 🌱 I'm continuously learning and currently diving deep into **Java Core** and **Spring Boot**.
-* 🤝 I'm actively looking to collaborate on exciting **Frontend** and **Fullstack** projects.
-* 💬 Feel free to ask me anything about **Frontend Development**!
+* 🔭 I'm currently focused on **Data Engineering**, **Data Warehousing**, and **Data Pipeline Automation**.
+* 🌱 I'm diving deep into **ETL/ELT Architecture**, **SQL Performance Tuning**, **SSIS**, and **Big Data Infrastructure**.
+* 🤝 I'm actively looking to collaborate on **Data Engineering**, **Database Administration**, and **Data Pipeline** projects.
+* 💬 Ask me about **SQL Server**, **Database Schema Design**, and **ETL Workflows**!
 * 📫 You can reach me via [Email](mailto:lesliedeeshumba@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/leslieshumba/), or follow me on [Twitter](https://twitter.com/layan_2k).
-* ⚡ Fun fact: When I'm not coding, you'll find me enjoying **Sim-Racing** or exploring the world of **Planes**!
+* ⚡ Fun fact: When I'm not designing data architectures, you'll find me enjoying **Sim-Racing** or exploring **Aviation**!
 
 ---
 
 ## 🔗 Let's Connect!
-
-You can find more of my work and connect with me on these platforms:
 
 <p align="center">
   <a href="https://lesliedev.netlify.app/" target="_blank">
@@ -49,26 +47,24 @@ You can find more of my work and connect with me on these platforms:
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Data Stack & Tools
 
-Here are some of the languages, frameworks, and tools I enjoy working with:
-
+**Data Engineering & Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSIS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Infrastructure & Orchestration**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
@@ -83,10 +79,6 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   <br/>
   <a href="https://github.com/layan2k">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=layan2k&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 

@@ -4,7 +4,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/layan2k">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=550&lines=Data+Engineer+%26+Database+Architect;DevOps+%26+Infrastructure+Specialist;Full-Stack+Software+Engineering+Background" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=550&lines=Data+Engineer+%26+Database+Architect;DevOps+%26+Infrastructure+Specialist;Software+Development+Background" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -114,33 +114,37 @@ I am a **Data Engineer & Infrastructure Specialist** leveraging a solid **Full-S
 
 ## 📊 GitHub Analytics & Metrics
 
+## 📊 GitHub Analytics & Metrics
+
 <div align="center">
+  <!-- Interactive Activity Graph -->
   <a href="https://github.com/layan2k">
-    <img src="https://github-readme-stats.vercel.app/api?username=layan2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Leslie's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/layan2k">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=layan2k&theme=tokyo-night&hide_border=true&area=true" alt="Leslie's GitHub Activity Graph" width="95%" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
+  <!-- GitHub Overall Stats -->
   <a href="https://github.com/layan2k">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=layan2k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=layan2k&show_icons=true&theme=tokyonight&hide_border=true" alt="Leslie's GitHub Stats" height="165" />
+  </a>
+  &nbsp;
+  <!-- Top Languages -->
+  <a href="https://github.com/layan2k">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165" />
   </a>
 </div>
 
 ---
 
-## 🎮 Contribution Graph Activity
+## 🎮 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layan2k/layan2k/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layan2k/layan2k/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/layan2k/layan2k/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/layan2k">
+    <img src="https://github-readme-3d-contrib.herokuapp.com/s/layan2k?theme=tokyo-night" alt="Leslie's 3D Contribution Graph" width="95%" />
+  </a>
 </div>
 
 ---

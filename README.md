@@ -114,8 +114,6 @@ I am a **Data Engineer & Infrastructure Specialist** leveraging a solid **Full-S
 
 ## 📊 GitHub Analytics & Metrics
 
-## 📊 GitHub Analytics & Metrics
-
 <div align="center">
   <!-- Interactive Activity Graph -->
   <a href="https://github.com/layan2k">
@@ -126,14 +124,14 @@ I am a **Data Engineer & Infrastructure Specialist** leveraging a solid **Full-S
 <br>
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
+  <!-- GitHub Overall Stats (Mirror Endpoint) -->
   <a href="https://github.com/layan2k">
-    <img src="https://github-readme-stats.vercel.app/api?username=layan2k&show_icons=true&theme=tokyonight&hide_border=true" alt="Leslie's GitHub Stats" height="165" />
+    <img src="https://anuraghazra-github-readme-stats.vercel.app/api?username=layan2k&show_icons=true&theme=tokyonight&hide_border=true" alt="Leslie's GitHub Stats" height="165" />
   </a>
   &nbsp;
-  <!-- Top Languages -->
+  <!-- Top Languages (Mirror Endpoint) -->
   <a href="https://github.com/layan2k">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layan2k&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+    <img src="https://anuraghazra-github-readme-stats.vercel.app/api/top-langs/?username=layan2k&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165" />
   </a>
 </div>
 
@@ -143,10 +141,9 @@ I am a **Data Engineer & Infrastructure Specialist** leveraging a solid **Full-S
 
 <div align="center">
   <a href="https://github.com/layan2k">
-    <img src="https://github-readme-3d-contrib.herokuapp.com/s/layan2k?theme=tokyo-night" alt="Leslie's 3D Contribution Graph" width="95%" />
+    <img src="https://github-readme-3d-contrib.vercel.app/s/layan2k?theme=tokyo-night" alt="Leslie's 3D Contribution Graph" width="95%" />
   </a>
 </div>
-
 ---
 
 <div align="center">

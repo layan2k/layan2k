@@ -1,0 +1,52 @@
+# Save as: .github/workflows/profile-widgets.yml in your layan2k/layan2k repo
+name: Generate profile widgets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  widgets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 3D contribution graph -> profile-3d-contrib/*.svg
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Contribution snake -> dist/*.svg
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib dist
+          git commit -m "chore: update profile widgets" || echo "No changes to commit"
+          git push
+
+      # Stats + top languages -> metrics.svg (commits itself via the API)
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
